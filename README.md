@@ -60,6 +60,8 @@ All eight of the functions use the same setup: a Gaussian Process surrogate with
 
 ## Section 4: Documentation
 
+- [Model Card](docs/model_card.md)
+- [Data Sheet](docs/datasheet.md)
 - [Strategy](docs/strategy.md)
 - [Methodology](docs/methodology.md)
 - [Decision log](docs/decision_log.md)
