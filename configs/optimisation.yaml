@@ -1,0 +1,9 @@
+seed: 42
+surrogate: gp
+acquisition:
+  type: ucb
+  kappa: 2.0
+local_search:
+  n_restarts: 20
+functions:
+  count: 8
