@@ -418,7 +418,7 @@ across model families, at near-zero cost.
 5. **A productive method deserves the same scepticism as a productive region.** Function 7's
    withdrawn rule and Function 6's capped EI are both cases of refusing to follow a loop that
    had been paying.
-
-   **Note:** Document has been refined using AI
 7. **Record the reasoning before the result arrives.** It is the only thing that makes the
    forward test meaningful a week later, and the only defence against rationalising afterwards.
+
+**Note:** Document has been refined using AI
