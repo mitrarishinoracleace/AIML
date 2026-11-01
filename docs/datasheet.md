@@ -451,3 +451,5 @@ abandoned.
 
 See the [project README](../README.md) for the method, results and limitations, and
 [`model_cards.md`](model_cards.md) for per-function model documentation.
+
+**Note:** Document has been refined using AI
