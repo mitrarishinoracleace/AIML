@@ -154,15 +154,14 @@ less severe than it would otherwise be, but it was not verified for every functi
 
 In `data/accumulated/week3/outputs.txt`, six of the eight values match their corresponding
 notebook exactly. Two are shifted by one position against each other: 2602.253793 sits in
-Function 5's slot but was used by the Function 4 notebook, and −1.359780 sits in Function 6's
-slot but was used by both Function 5 and Function 6. Two functions cannot own the same
-observation.
+Function 5's slot but was by mistake recorded in Function 4 notebook(due to oversight), and −1.359780 sits in Function 6's
+slot but was used by both Function 5 and Function 6, again due to oversight. 
 
 The portal ordering is the likelier reading — 2602 lies inside Function 5's observed range and
 three orders of magnitude outside Function 4's, 0.557221 sits squarely in Function 4's eventual
 plateau, and Function 3 independently found and corrected this same off-by-one in round 5.
 
-**No final best is affected**; Function 4's record and Function 5's were both set in round 13.
+**No final best were affected**; Function 4's record and Function 5's were both set in round 13.
 Two intermediate narratives inherit the ambiguity: Function 4's chase of an extreme value
 across rounds 4 to 9, and the signed-log transform Function 5 introduced to handle a value
 below −1. Full detail is in [`datasheet.md`](datasheet.md).
