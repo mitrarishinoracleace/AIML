@@ -538,3 +538,5 @@ same off-by-one in round 5.
 in round 13. Two intermediate narratives inherit the ambiguity: Function 4's chase of an extreme
 value across rounds 4 to 9, and Function 5's signed-log transform introduced to handle a value
 below −1. Both are flagged wherever they appear. Pending resolution with the course platform.
+
+**Note:** Document has been refined using AI
