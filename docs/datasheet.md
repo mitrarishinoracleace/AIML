@@ -186,9 +186,9 @@ In `data/accumulated/week3/outputs.txt`, six of the eight values match the corre
 
 Two functions cannot both own the same observation, so at least one reading is wrong. The portal ordering is the more likely one on three grounds: 2602 lies inside Function 5's
 observed range (0.11 to 8662) and three orders of magnitude outside Function 4's (−32.6 to 0.59); 0.557221 sits squarely inside the plateau at 0.534 to 0.591 that Function 4 settled
-on; and Function 3 independently identified and corrected this same off-by-one in round 5, recording that it had wrongly used 0.5572213082937378 as its own round-3 output.
+on; and Function 3 independently identified and corrected this same off-by-one in round 5, recording that it had wrongly used 0.5572213082937378 as its own round-3 output. This was detected as an human error while recording the weekly output, Function 5 output was recorded, by mistake for function 4, due to oversight.
 
-**No final best is affected.** Function 4's record (0.590944) and Function 5's (8662.405001) were both set in round 13. The consequences are to the trajectory, not the
+**The final best was NOT affected.** Function 4's record (0.590944) and Function 5's (8662.405001) were both set in round 13. The consequences are to the trajectory, not the
 result: under the portal reading, Function 4's rounds 4 to 9 were spent probing a value that does not belong to it, and Function 5's best-so-far between rounds 3 and 12 is
 understated in its notebook. Two downstream narratives inherit the ambiguity — Function 4's "unconfirmed spike" and the signed-log transform Function 5 introduced in round 4 to handle
 a value below −1 — and both are flagged where they appear.
