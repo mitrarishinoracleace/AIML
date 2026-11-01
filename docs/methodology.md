@@ -287,3 +287,5 @@ See [`strategy.md`](strategy.md) for how this was applied per function,
 [`decision_log.md`](decision_log.md) for the dated record of changes,
 [`model_cards.md`](model_cards.md) for model details and
 [`limitations.md`](limitations.md) for the scope of the resulting claims.
+
+**Note:** Document has been refined using AI
