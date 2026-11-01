@@ -1,10 +1,16 @@
 # Limitations
 
-**Project:** Black-Box Optimisation (BBO) Capstone — Imperial College London, Professional
-Certificate in Machine Learning and Artificial Intelligence
-**Version:** 1.0
-**Date:** 1 November 2026
-**Author:** Rishin Mitra
+**Imperial College London — Professional Certificate in Machine Learning and Artificial Intelligence**
+
+| | |
+|---|---|
+| **Author** | Rishin Mitra |
+| **Version** | 1.0 |
+| **Date** | 31 October 2026 |
+| **Repository** | [mitrarishinoracleace/AIML](https://github.com/mitrarishinoracleace/AIML) |
+| **Status** | Complete — 13 of 13 rounds submitted for all eight functions |
+
+---
 
 This document states what the results do and do not support. It is deliberately more
 restrictive than the results table, because the evidence is narrower than the headline
