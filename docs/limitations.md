@@ -244,3 +244,5 @@ See [`methodology.md`](methodology.md) for how queries were produced,
 [`decision_log.md`](decision_log.md) for the dated record,
 [`datasheet.md`](datasheet.md) for the data and
 [`model_cards.md`](model_cards.md) for model details.
+
+**Note:** Document has been refined using AI
