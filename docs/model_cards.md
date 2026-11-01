@@ -435,3 +435,5 @@ bound the BLAS-related variation rather than merely note it.
 See the [project README](../README.md) for results in context, [`datasheet.md`](datasheet.md)
 for the data, [`methodology.md`](methodology.md) for the pipeline, and
 [`limitations.md`](limitations.md) for the full statement of scope.
+
+**Note:** Document has been refined using AI
