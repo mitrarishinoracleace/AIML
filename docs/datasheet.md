@@ -1,10 +1,15 @@
 # Datasheet: Black-Box Optimisation (BBO) Capstone
 
-**Project:** Imperial College London — Professional Certificate in Machine Learning and Artificial Intelligence
-**Version:** 2.0
-**Date:** 1 November 2026
-**Author:** Rishin Mitra
-**Repository:** [mitrarishinoracleace/AIML](https://github.com/mitrarishinoracleace/AIML)
+**Imperial College London — Professional Certificate in Machine Learning and Artificial Intelligence**
+
+| | |
+|---|---|
+| **Author** | Rishin Mitra |
+| **Version** | 2.0 (final submission) |
+| **Date** | 31 October 2026 |
+| **Repository** | [mitrarishinoracleace/AIML](https://github.com/mitrarishinoracleace/AIML) |
+| **Status** | Complete — 13 of 13 rounds submitted for all eight functions |
+
 
 > Follows the structure proposed in Gebru et al. (2021), *Datasheets for Datasets*,
 > *Communications of the ACM* 64(12), 86–92.
