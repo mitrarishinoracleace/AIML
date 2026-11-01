@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Author** | Rishin Mitra |
-| **Version** | 2.0 (final submission) |
+| **Version** | 1.0  |
 | **Date** | 31 October 2026 |
 | **Repository** | [mitrarishinoracleace/AIML](https://github.com/mitrarishinoracleace/AIML) |
 | **Status** | Complete — 13 of 13 rounds submitted for all eight functions |
