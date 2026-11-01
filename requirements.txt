@@ -3,6 +3,7 @@ scipy
 pandas
 scikit-learn
 matplotlib
+seaborn
 pyyaml
 pytest
 jupyter
